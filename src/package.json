@@ -6,7 +6,7 @@
   "homepage": "https://codesandbox.io/s/7o46mkowx",
   "main": "index.js",
   "dependencies": {
-    "react-dom": "16.2.0",
+    "react-dom": "16.10.2",
     "react-bootstrap": "0.32.1",
     "react": "16.2.0",
     "@devexpress/dx-react-grid-bootstrap3": "1.0.3",
