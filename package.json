@@ -1,0 +1,25 @@
+{
+  "name": "devextreme-react-grid-for-bootstrap3",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/7o46mkowx",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.2.0",
+    "react-bootstrap": "0.32.1",
+    "react": "16.2.0",
+    "@devexpress/dx-react-grid-bootstrap3": "1.0.3",
+    "@devexpress/dx-react-grid": "1.0.3",
+    "@devexpress/dx-react-core": "1.0.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
